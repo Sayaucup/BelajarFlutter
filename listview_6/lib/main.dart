@@ -9,7 +9,7 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   List<Widget> widgets = [];
-  int counter = 1;
+  int counter = 0;
 
   @override
   Widget build(BuildContext context) {
